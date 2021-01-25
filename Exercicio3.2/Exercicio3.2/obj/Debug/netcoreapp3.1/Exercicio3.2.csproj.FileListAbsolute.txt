@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\bin\Debug\netcoreapp3.1\Exercicio3.2.exe
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\bin\Debug\netcoreapp3.1\Exercicio3.2.deps.json
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\bin\Debug\netcoreapp3.1\Exercicio3.2.runtimeconfig.json
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\bin\Debug\netcoreapp3.1\Exercicio3.2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\bin\Debug\netcoreapp3.1\Exercicio3.2.dll
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\bin\Debug\netcoreapp3.1\Exercicio3.2.pdb
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.dll
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.pdb
+C:\DesenvolvimentoMayara\Prova-Csharp\Exercicio3.2\Exercicio3.2\obj\Debug\netcoreapp3.1\Exercicio3.2.genruntimeconfig.cache
